@@ -75,7 +75,7 @@ Apos conseguir logar no Grafana, precisamos configurar nosso Data Source, que se
 
 * Configure a conexão, certificando-se de apontar para o container Prometheus e não para o localhost
 
-![1]((./Images/17.png))
+![1](./Images/17.png)
 
 **Criar Dashboards**
 
@@ -83,7 +83,7 @@ Agora que o Data Source está configurado, vá para a seção "Dashboards" e com
 
 É recomendado criar uma pasta para organizar os Dashboards.
 
-![2](./images/19.png)
+![2](./Images/19.png)
 
 
 **🔥 Conclusão 🔥**
