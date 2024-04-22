@@ -101,7 +101,7 @@ As possibilidades são infinitas, nesse caso eu optei por:
 ![5](./Images/22.png)
 
 
-**Vamos utilizar esse projeto como base para implementar o Grafana**
+**Vamos utilizar esse projeto como base para desenvolver alertas e mais metricas personalizadas**
 
 ⌨️ com ❤️ por [Elias Assunção](https://github.com/Hooligam) 🔥
 
